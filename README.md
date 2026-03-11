@@ -1,2 +1,2 @@
 # calendar
-캘린더 with claude
+캘린더
