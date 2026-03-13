@@ -1,1 +1,2 @@
-Calendar
+Calendar with claude
+Vibe Coding
